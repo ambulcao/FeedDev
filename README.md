@@ -4,5 +4,5 @@ Feedback Widget
 # Tecnologias Utilizadas
 - TailwindCss;
 - Prisma;
-- Solid;
+- Solid (Boas práticas);
 - Jest;
